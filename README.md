@@ -3,7 +3,7 @@
 February 1st, 2017
 
 ### This repository includes DeBias' Matlab source code and test data
-- Decouples global bias from direct interactions in co-orientation and co-localization data. 
+- DeBias decouples global bias from direct interactions in co-orientation and co-localization data. 
 - Webserver: https://debias.biohpc.swmed.edu/
 - Contact: Assaf Zaritsky - assafzar@gmail.com.
 
@@ -52,7 +52,7 @@ February 1st, 2017
     * `K = DeBiasGetK(data,isCoOrientation)`
 
 ------------------
-### Citation
+#### Citation
 - A webserver implementing this code is available at https://debias.biohpc.swmed.edu/, a comprehensive user manual is available at the web-site. 
     - Source code of the database and for setting the webserver are also available upon request.   
 
