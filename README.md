@@ -67,4 +67,4 @@ Please contact Assaf Zaritsky, assafzar@gmail.com, for any questions / suggestio
 
 -----------------
 
-http://www.utsouthwestern.edu/labs/danuser/
+For more work from the Danuser Lab: http://www.utsouthwestern.edu/labs/danuser/
