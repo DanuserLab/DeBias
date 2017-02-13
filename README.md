@@ -1,4 +1,3 @@
--------------------
 DeBias source code
 February 1st, 2017
   Assaf Zaritsky
