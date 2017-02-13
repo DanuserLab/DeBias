@@ -1,11 +1,9 @@
-DeBias source code
 February 1st, 2017
-  Assaf Zaritsky
-assafzar@gmail.com
 
 ### This repository includes DeBias' Matlab source code and test data
 - Decouples global bias from direct interactions in co-orientation and co-localization data. 
 - Webserver: https://debias.biohpc.swmed.edu/
+- Contact: Assaf Zaritsky - assafzar@gmail.com.
 
 
 ### Apply DeBias:
