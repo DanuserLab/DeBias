@@ -7,7 +7,6 @@ assafzar@gmail.com
 - Decouples global bias from direct interactions in co-orientation and co-localization data. 
 - Webserver: https://debias.biohpc.swmed.edu/
 
--------------------
 
 ### Apply DeBias:
 ------------
