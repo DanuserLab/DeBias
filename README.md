@@ -28,7 +28,7 @@ assafzar@gmail.com
     2. Colocalization simulation (see Appendix 3 - figure 1A):
         * `[X,Y] = generateColocSimulationData(sX,sZ,N,fracColoc)`
 
-Example data:
+### Example data:
 ------------
 - Avaialble at the [testData](https://git.biohpc.swmed.edu/danuser/DeBias/tree/master/testData) folder. 3 examples for co-orientation and 1 for co-localization.
 
