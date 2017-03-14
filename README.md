@@ -28,7 +28,7 @@ February 1st, 2017
 
 ### Example data:
 ------------
-- Avaialble at the [testData](https://git.biohpc.swmed.edu/danuser/DeBias/tree/master/testData) folder. 3 examples for co-orientation and 1 for co-localization.
+- Avaialble at the [testData](https://github.com/DanuserLab/DeBias/tree/master/testData) folder. 3 examples for co-orientation and 1 for co-localization.
 
 - The most recommended way to start working with the source code is to generate simulated data and try DeBias on it. For example:
     * `[X,Y] = generateCoOrientSimulationData(0,30,0,30,0.3,1000);`
