@@ -64,7 +64,6 @@ February 1st, 2017
 Please contact Assaf Zaritsky, assafzar@gmail.com, for any questions / suggestions.
 
 -----------------
+For more work from the [Danuser Lab](https://www.danuserlab-utsw.org/)
 
-For more work from the Danuser Lab: http://www.utsouthwestern.edu/labs/danuser/
-
-(and software: http://www.utsouthwestern.edu/labs/danuser/software/ )
+(and [Software](https://github.com/DanuserLab/))
