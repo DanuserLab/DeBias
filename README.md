@@ -57,7 +57,8 @@ February 1st, 2017
     - Source code of the database and for setting the webserver are also available upon request.   
 
 - Please cite the following manuscript when using the DeBias software:
-   - ["Decoupling global biases and local interactions between cell biological variables" A Zaritsky, U Obolski, Z Gan, CR Reis, Z Kadlecova, Y Du, SL Schmid, G Danuser; eLife 2017; 10.7554/eLife.22323](http://dx.doi.org/10.7554/eLife.22323).
+   - [**Decoupling global biases and local interactions between cell biological variables**](http://dx.doi.org/10.7554/eLife.22323), *eLife*, 2017, 6:e22323, written by 
+Assaf ZaritskyUri ObolskiZhuo GanCarlos R ReisZuzana KadlecovaYi DuSandra L Schmid, [Gaudenz Danuser](https://www.danuserlab-utsw.org/).
 
 -----------------
 
